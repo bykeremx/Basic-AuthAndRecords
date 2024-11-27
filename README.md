@@ -62,18 +62,7 @@ Bu proje, kullanıcıların şifre doğrulaması yaparak bir kayıt sistemine er
 - Java Development Kit (JDK) 8 veya üzeri.
 
 ---
-
-## 🤝 **Katkıda Bulunun**
-Her türlü geri bildirim ve katkıya açığız!  
-- Hata bildirimi veya iyileştirme önerisi için bir [issue](https://github.com/kullaniciadi/java-sifreli-kayit/issues) açabilirsiniz.  
-- Pull Request ile katkıda bulunabilirsiniz.
-
----
-
 ## 📧 **İletişim**  
 Eğer sorularınız veya önerileriniz varsa benimle iletişime geçmekten çekinmeyin:  
-📩 **E-posta:** ornek@eposta.com  
+📩 **E-posta:** mkerem481@gmail.com
 
---- 
-
-Bu README, projenizi profesyonel ve çekici bir şekilde tanıtmak için idealdir. GitHub'a uygun hale getirilmiş ve katkıda bulunmak isteyen geliştiriciler için faydalı bilgiler içeriyor. 😊
