@@ -22,7 +22,7 @@ Bu proje, kullanıcıların şifre doğrulaması yaparak bir kayıt sistemine er
 
 2. **Projeyi klonlayın**:  
    ```bash
-   git clone https://github.com/kullaniciadi/java-sifreli-kayit.git
+   git clone https://github.com/bykeremx/Basic-AuthAndRecords.git
    cd java-sifreli-kayit
    ```
 
