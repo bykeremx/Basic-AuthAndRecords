@@ -1,6 +1,3 @@
-Aşağıda, bu proje için şık ve bilgilendirici bir GitHub README.md örneği hazırladım:  
-
----
 
 # 🔒 **Java Şifreli Kayıt Uygulaması**  
 
